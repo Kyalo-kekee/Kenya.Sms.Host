@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/Security/gladys.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/ApiLogin.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/App_ActivateDeactivateStudents.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/App_DeactivateStudents.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/App_GetAll_Users.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/App_GetAttendanceList.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/App_GetTeachers.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/App_RemoveClassroom.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/App_StatisticsDashboardA.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Check_CanAddClassRooms.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/CompaniesNextNumbers.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/GetCompanyInformation_MS_1.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Search_ExamHeader.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Sp_FeeCollection_Initialize.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Sp_GetStudentCountBySection.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Sp_OnUpdateFeeStructure_UpdateStudentBalances.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Sp_PopulateStudentPaymentHeader.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Sp_Reporting_GetAllStudents.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Sp_Reporting_GetStudentByClassRoomID.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Sp_Reporting_GetStudentPaymentDetails.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Sp_Reporting_Get_Teachers.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/AssessmentForm.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/Bank.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/BloodGroup.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/ClassAttendanceList.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/ClassDataSearch.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/CountiesList.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/CourseHeader.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/CourseModuleHeader.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/DailyAttendanceSearchForm.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/EmployeeCostCenter.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/EmployeeRole.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/EmployeeType.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/ExamHeader.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/ExamHeaderDetails.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/ExamHeaderSearchForm.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/ExamSchedule.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/ExaminationSessionCalender.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/FeeStructureComponent.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/GenderList.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/GetNextNumberIDS.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/IncidentReport.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/IncidentReportPartiesInvolved.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/IncidentReportWitnesses.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/InstitutionSetup.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/Month.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/MshuleUser.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/PayItem.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/PaymentFrequency.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/PaymentMethod.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/PayrollEmployees.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/ReligionList.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/ResourceGroup.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/ResourcePermissions.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/Resources.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/RsUser.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/Salutations.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/SchemaAttendanceListResultQuerySet.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/SchoolClassHeader.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/SchoolClassRoomsHeader.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/SchoolFeeItem.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/SecurityVoterAttributes.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/SmsOutbox.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/StudentAttendanceSessionLogs.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/StudentDeactivationReasons.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/StudentInformation.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/StudentPaymentDetails.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/StudentPaymentHeader.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/TeacherAttendanceSessionLogs.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/Teachers.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/TeachersAttendance.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/TeachingAssignment.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/UserPermission.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/UserRoles.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/doctrine_migration_versions.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/feestructurecomponent_examinationsessioncalender.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/feestructurecomponent_schoolclassheader.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/feestructurecomponent_schoolfeeitem.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/incidentreport_incidentreportpartiesinvolved.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/incidentreport_incidentreportwitnesses.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/payrollemployees_employeerole.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/resources_securityvoterattributes.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/studentinformation_courseheader.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/teachers_courseheader.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/teachers_schoolclassroomsheader.sql" dialect="TSQL" />
+    <file url="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Tables/teachingassignment_schoolclassroomsheader.sql" dialect="TSQL" />
+  </component>
+</project>

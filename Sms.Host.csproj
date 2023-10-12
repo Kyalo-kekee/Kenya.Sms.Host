@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\logo.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Assets\logo.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sms.core\Sms.Core.csproj" />
+    <ProjectReference Include="..\Sms.Reporting\Sms.Reporting.csproj" />
+    <ProjectReference Include="..\Sms.Shared\Sms.Shared.csproj" />
+    <ProjectReference Include="..\Sms_Data_Layer\DataAccessLayer.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Api\Http\ClassManagemnt\" />
+    <Folder Include="Controllers\" />
+    <Folder Include="Model\" />
+    <Folder Include="Reporting\" />
+  </ItemGroup>
+
+</Project>

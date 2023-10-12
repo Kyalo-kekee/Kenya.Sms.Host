@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDataSourceStorage">
+    <option name="dataSources">
+      <list>
+        <State>
+          <option name="id" value="5e601871-70cf-4390-8f32-e396227a4933" />
+          <option name="name" value="MSSQL.SMSDB.CLIENT" />
+          <option name="dbmsName" value="MSSQL" />
+          <option name="urls">
+            <array>
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/UserRoles.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/UserPermission.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/teachingassignment_schoolclassroomsheader.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/TeachingAssignment.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/teachers_schoolclassroomsheader.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/teachers_courseheader.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/Teachers.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/studentinformation_courseheader.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/StudentInformation.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/StudentDeactivationReasons.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/SecurityVoterAttributes.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/SchoolClassRoomsHeader.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/SchoolClassHeader.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/SchemaAttendanceListResultQuerySet.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/Salutations.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/RsUser.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/resources_securityvoterattributes.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/Resources.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/ResourcePermissions.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/ResourceGroup.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/ReligionList.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/payrollemployees_employeerole.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/PayrollEmployees.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/PaymentMethod.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/PaymentFrequency.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/MshuleUser.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/Month.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/InstitutionSetup.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/GetNextNumberIDS.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/GenderList.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/ExamSchedule.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/ExaminationSessionCalender.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/ExamHeaderSearchForm.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/ExamHeaderDetails.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/ExamHeader.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/EmployeeType.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/EmployeeRole.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/EmployeeCostCenter.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/doctrine_migration_versions.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/DailyAttendanceSearchForm.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/CourseModuleHeader.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/CourseHeader.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/CountiesList.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/ClassDataSearch.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/ClassAttendanceList.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/BloodGroup.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/Bank.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/StudentPaymentHeader.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/StudentPaymentDetails.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/SchoolFeeItem.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/PayItem.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/feestructurecomponent_schoolfeeitem.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/feestructurecomponent_schoolclassheader.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/feestructurecomponent_examinationsessioncalender.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/FeeStructureComponent.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/TeachersAttendance.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/TeacherAttendanceSessionLogs.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/StudentAttendanceSessionLogs.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/SmsOutbox.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/IncidentReportWitnesses.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/IncidentReportPartiesInvolved.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/incidentreport_incidentreportwitnesses.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/incidentreport_incidentreportpartiesinvolved.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/IncidentReport.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/tables/AssessmentForm.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Search_ExamHeader.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/GetCompanyInformation_MS_1.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/CompaniesNextNumbers.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Check_CanAddClassRooms.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/App_StatisticsDashboardA.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/App_RemoveClassroom.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/App_GetTeachers.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/App_GetAttendanceList.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/App_GetAll_Users.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/App_DeactivateStudents.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/App_ActivateDeactivateStudents.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/ApiLogin.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Sp_PopulateStudentPaymentHeader.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Sp_GetStudentCountBySection.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Sp_FeeCollection_Initialize.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Sp_Reporting_GetStudentByClassRoomID.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Sp_Reporting_GetAllStudents.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Sp_Reporting_GetStudentPaymentDetails.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Sp_OnUpdateFeeStructure_UpdateStudentBalances.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/dbo/Stored Procedures/Sp_Reporting_Get_Teachers.sql" />
+              <option value="file://$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT/security/gladys.sql" />
+            </array>
+          </option>
+          <option name="remarks" value="Database Project" />
+          <option name="outPath" value="$PROJECT_DIR$/../MSSQL.SMSDB.CLIENT" />
+          <option name="codeStyleName" value="Visual Studio Database Project" />
+          <option name="outLayout" value="File per object by schema.groovy" />
+          <option name="scriptOptions">
+            <map>
+              <entry key="ConstraintContext" value="CONSTRAINT_IN_TABLE" />
+              <entry key="MsVsDdlCompatibility" value="1" />
+              <entry key="QualifyWithSchema" value="ALWAYS" />
+              <entry key="Reformat" value="1" />
+              <entry key="UseSemicolon" value="1" />
+            </map>
+          </option>
+        </State>
+      </list>
+    </option>
+  </component>
+</project>
